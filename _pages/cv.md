@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Current Position
+Research Assistant, Nonequilibrium Gas and Plasma Dynamics Laboratory (2021--Present)
+  * Study plasma electrostatics of atmospheric entry flows with discrete-velocity Boltzmann-BGK-Poisson kinetic solver, including:
+    * Maintain in-house Boltzmann-BGK-Poisson kinetic solver, including developing multiple code enhancements.
+    * Assess validity of the ambipolar diffusion approximation in rarefied flows.
+    * Determine unique characteristics of plasma sheath formed by hypersonic entry.
+    * Developed novel numerical method for a 1D3V stagnation streamline for discrete-velocity methods. 
 
 ## Education
 * Ph.D in Aerospace Engineering Sciences, University of Colorado Boulder, 2026 (expected)
@@ -15,34 +22,28 @@ redirect_from:
 * B.S. in Physics with Honors, Stony Brook University, 2021
 
 ## Work experience
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* NASA Ames On-Site Intern, Analytical Mechanics Associates (Summer 2024)
+  * Developed 1D viscous shock solving capabilities for DPLR for validation of NEQAIR chemical databases.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Research Assistant, Plasma Accelerator Group (2021-2021)
+  * Wrote 3D3V Quasi-static Electron Propagation (QuEP) Monte Carlo particle solver.
+  * Developed proof of concept for experimental diagnostics of electron beam through laser-induced plasma wakefields using QuEP.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research Assistant, Lead (Pb-208) Radius Experiment (PREX) Collaboration (2017-2019)
+  * Conducted study of angular and position dependency of flux in Cherenkov detectors.
+  * Operated beam target and monitored data collection during experiment run time.
+  * Wrote detector alignment software, verified by Monte-Carlo particle simulations.
   
 ## Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
+* Kinetic simulation methods, including:
+  * Discrete-Velocity/Boltzmann Solver
+  * Direct Simulation Monte Carlo (DSMC)
+  * Particle in Cell (PIC)
+* Finite-volume methods
+
+<!---
 ## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
