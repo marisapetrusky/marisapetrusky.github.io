@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D in Aerospace Engineering Sciences, University of Colorado Boulder, 2026 (expected)
 * M.S. in Aerospace Engineering Sciences with Certificate in Hypersonics, University of Colorado Boulder, 2023
 * B.S. in Physics with Honors, Stony Brook University, 2021
 
-Work experience
-======
+## Work experience
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
@@ -32,8 +30,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -41,8 +38,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
