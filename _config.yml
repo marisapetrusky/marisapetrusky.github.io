@@ -22,9 +22,9 @@ repository               : "marisapetrusky/marisapetrusky.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Personal Website"
+  name             : "Marisa Petrusky"
   pronouns         : # example: "she/her"  
-  bio              : "Marisa Petusky is a PhD Candidate at CU Boulder's Nonequilibrium Gas and Plasma Dynamics Laboratory. "
+  bio              : "PhD Candidate, Aerospace Engineering Sciences"
   location         : "Boulder, CO"
   employer         : "University of Colorado Boulder"
   uri              : # URL
