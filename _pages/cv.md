@@ -14,7 +14,7 @@ redirect_from:
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/marisapetrusky/marisapetrusky.github.io/master/files/petrusky_cv.pdf"
   width="100%"
-  height="600px"
+  height="800px"
   style="border: none;">
 </iframe>
 
