@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
-<object data="http://marisapetrusky.github.io/files/petrusky_cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://marisapetrusky.github.io/files/petrusky_cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://marisapetrusky.github.io/files/petrusky_cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 {% include base_path %}
+
+<iframe
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/marisapetrusky/marisapetrusky.github.io/master/files/petrusky_cv.pdf"
+  width="100%"
+  height="600px"
+  style="border: none;">
+</iframe>
+
 ## Current Position
 Research Assistant, Nonequilibrium Gas and Plasma Dynamics Laboratory (2021--Present)
   * Study plasma electrostatics of atmospheric entry flows with discrete-velocity Boltzmann-BGK-Poisson kinetic solver, including:
