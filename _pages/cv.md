@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<object data="http://marisapetrusky.github.io/files/petrusky_cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://marisapetrusky.github.io/files/petrusky_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://marisapetrusky.github.io/files/petrusky_cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 {% include base_path %}
 ## Current Position
 Research Assistant, Nonequilibrium Gas and Plasma Dynamics Laboratory (2021--Present)
