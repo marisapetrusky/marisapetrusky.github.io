@@ -11,6 +11,8 @@ redirect_from:
 
 ## Last Updated: June 2025
 
+To download PDF instead, [click here.](https://raw.githubusercontent.com/marisapetrusky/marisapetrusky.github.io/master/files/petrusky_cv.pdf)
+
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/marisapetrusky/marisapetrusky.github.io/master/files/petrusky_cv.pdf"
   width="100%"
