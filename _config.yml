@@ -81,13 +81,14 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
+    title: 'Peer Reviewed Conference Proceedings'
     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
