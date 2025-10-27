@@ -7,12 +7,10 @@ redirect_from:
   - /research.md
 ---
 
-## Hypersonic Entry Flows
+## Hypersonic Aerothermodynamics
 Arguably, the most dangerous part of any planetary exploration mission is the entry of a spacecraft through a planet’s atmosphere. Spacecraft must rapidly decelerate from entry velocities upwards of 40 times the speed of sound, resulting in the compression and heating of gas via a hypersonic shock layer. Accurate numerical simulations of this intense flow regime are essential for designing safe and optimized spacecraft, particularly when delicate instrumentation and astronauts are inside.
 
-At sufficiently high entry speeds, a fraction of gas is ionized via the shock layer to form a plasma. These ionized species carry electric charge, leading to the formation of electric fields. Conventionally, plasma electrostatics are neglected in entry flow simulations, as calculation of electric fields can be prohibitively computationally expensive. However, advances in computing technology have lessened this limitation, and more detailed investigations of plasma electrostatics are possible.
-
-Research into plasma electrostatics of hypersonic entry flows has direct application in mitigation of radio communications blackout, detection of radiation signatures of hypersonic flight, magnetohydrodynamic (MHD) flow control and propulsion, and more!
+At sufficiently high entry speeds, a fraction of gas is ionized via the shock layer to form a plasma. These ionized species carry electric charge, leading to the formation of electric fields. Conventionally, plasma electrostatics are neglected in entry flow simulations, as calculation of electric fields can be prohibitively computationally expensive. However, advances in computing technology have lessened this limitation. Research into plasma electrostatics of hypersonic entry flows has direct application in mitigation of radio communications blackout, detection of radiation signatures of hypersonic flight, magnetohydrodynamic (MHD) flow control and propulsion, and more!
 
 ## Plasma Sheaths
 In the presence of a wall, a negative charge deficit will appear in a plasma, as the lightweight electrons will recombine at the wall at a faster rate than ions. To resolve this charge deficit, a thin boundary layer of non-neutral plasma forms at the wall, which forms a potential barrier that adjusts itself such that the flux of ions and electrons to the wall are equal. Plasma sheaths form in almost all practical plasma devices, such as fusion reactors or vacuum chambers, but can also form on hypersonic vehicles if the surrounding gas is sufficiently ionized. Technologies such as electron transpiration cooling (ETC) seek to take advantage of this plasma sheath in order to cool the vehicle.
