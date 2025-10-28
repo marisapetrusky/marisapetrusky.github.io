@@ -1,11 +1,13 @@
 ---
 permalink: /research/
-title: "Research Interests"
+title: "Current Research Areas"
 author_profile: true
 redirect_from: 
   - /research
   - /research.md
 ---
+
+These are areas of research I am actively working on! For a comprehensive list of previous work, please see [my CV page](https://marisapetrusky.github.io/cv/).
 
 ## Hypersonic Aerothermodynamics
 Arguably, the most dangerous part of any planetary exploration mission is the entry of a spacecraft through a planet’s atmosphere. Spacecraft must rapidly decelerate from entry velocities upwards of 40 times the speed of sound, resulting in the compression and heating of gas via a hypersonic shock layer. Accurate numerical simulations of this intense flow regime are essential for designing safe and optimized spacecraft, particularly when delicate instrumentation and astronauts are inside.
