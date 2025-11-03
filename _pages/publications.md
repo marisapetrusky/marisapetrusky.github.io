@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Peer-Reviewed Journal Publications
+
 <ol>
   <li value="3">D. Adihikari, et al. (The CREX Collaboration, including <b>M. Petrusky</b>). <b>Precision Determination of
 the Neutral Weak Form Factor of 48-Ca.</b> Physical Review Letters, 129(4), 2022. <a href="https://doi.org/10.1103/PhysRevLett.129.042501">DOI: 10.1103/Phys-RevLett.129.042501</a>
