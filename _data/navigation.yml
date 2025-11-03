@@ -7,9 +7,6 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "News"
-    url: /news/
     
   - title: "Publications"
     url: /publications/
@@ -20,14 +17,17 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "CV"
+    url: /cv/    
+    
   #- title: "Portfolio"
   #  url: /portfolio/
-        
+  
+  - title: "News"
+    url: /news/
+    
   - title: "Blog"
     url: /blog/
-    
-  - title: "CV"
-    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
