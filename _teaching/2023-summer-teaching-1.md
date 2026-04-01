@@ -8,7 +8,7 @@ date: 2023-06-01
 location: "Boulder, Colorado, USA"
 ---
 
-Multidisciplinary online course guiding science communication and academic writing as McNair students design and carry out a formal investigation. Instructor of record, 10 students.
+Multidisciplinary online course guiding science communication and academic writing as McNair Scholars design and carry out a formal investigation during their summer research internship. Instructor of record, 10 students.
 
 
 ## Responsibilities
