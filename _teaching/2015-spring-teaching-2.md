@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "Boulder, Colorado, USA"
 ---
 
-Course covering fundmental physics and solutions of compressible flows. Emphasis on analytical and numerical methods of solving ordinary and partial differential equations. Sole graduate teaching facilitator, 50 students. 
+Course covering fundamental physics and solutions of compressible flows. Emphasis on analytical and numerical methods of solving ordinary and partial differential equations. Sole graduate teaching facilitator, 50 students. 
 
 ## Responsibilities
 Hosted weekly office hours with additional availability via Zoom, graded assignments and half of all exams, hosted exam review sessions, covered class lectures as needed. 
