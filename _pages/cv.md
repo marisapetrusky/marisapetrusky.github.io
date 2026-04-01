@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Last Updated: January 2026
+### Last Updated: March 2026
 
 To download a PDF instead, [click here.](https://raw.githubusercontent.com/marisapetrusky/marisapetrusky.github.io/master/files/petrusky_cv.pdf)
 
