@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral associate with the Center for National Security Initiatives at the University of Colorado Boulder. I broadly specialize in numerical modeling of rarefied and nonequilibrium gases and plasmas, as well as building scalable multi-physics modeling software. I enjoy exploring research areas that require study of fundamental physics in order to address engineering challenges. My current work is on advancing simulation techniques and knowledge of plasma electrostatics in hypersonic flows. 
+I am a postdoctoral associate with the Center for National Security Initiatives at the University of Colorado Boulder. I broadly specialize in numerical modeling of rarefied and nonequilibrium gases and plasmas, as well as building scalable multi-physics modeling software. I enjoy exploring research areas that require study of fundamental physics in order to address engineering challenges.
 
 Throughout my career, I have participated in, volunteered for, and organized mentoring, science communication, and STEM retention initiatives. I love giving back to the community and helping others find their paths in STEM!
 
