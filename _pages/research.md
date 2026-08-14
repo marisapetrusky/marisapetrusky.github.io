@@ -15,7 +15,7 @@ Objects and vehicles moving much faster than the speed of sound through an atmos
 
 My Ph.D. work consisted of studying partially ionized hypersonic flows. At sufficiently high hypersonic speeds, a fraction of gas is ionized via the shock layer to form a plasma. These ionized species carry electric charge, leading to the formation of electric fields. Research in hypersonic plasmas has direct application in mitigation of radio communications blackout, detection of radiation signatures of hypersonic flight, magnetohydrodynamic flow control and propulsion, and more. 
 
-- **Petrusky, M.**, Boyd, I.D. (2026). Evaluation of the Ambipolar Diffusion Approximation in Partially Ionized Rarefied Hypersonic Flows. *Submitted, preprint available on arXiv.*
+- **Petrusky, M.**, Boyd, I.D. (2026). Evaluation of the Ambipolar Diffusion Approximation in Partially Ionized Rarefied Hypersonic Flows. *Submitted, [preprint available on arXiv](https://arxiv.org/abs/2608.12498).*
 - **Petrusky, M.**, Boyd, I.D. (2026). Discrete-Velocity Simulation of a One-Dimensional Hypersonic Stagnation Streamline. *Journal of Thermophysics and Heat Transfer*, 40(3). [DOI: 10.2514/1.T7373](https://arc.aiaa.org/doi/10.2514/1.T7373)
 
 ## Kinetic Modeling Methods
