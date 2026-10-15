@@ -21,7 +21,7 @@ repository               : "marisapetrusky/marisapetrusky.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "headshot.jpg"
   name             : "Marisa Petrusky, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate at the Center for National Security Initiatives"
